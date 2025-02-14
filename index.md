@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WL39373EB2"></script>
 <script>
@@ -7,10 +11,6 @@
 
   gtag('config', 'G-WL39373EB2');
 </script>
-
----
-layout: default
----
 
 ## About Me
 
