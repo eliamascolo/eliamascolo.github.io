@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_picture_mountain.jpg">
 
-I'm a PhD student in **Theoretical and Computational Biology** in the Erill Lab, at UMBC (USA).
+I'm a PhD student in ***Theoretical and Computational Biology*** in the Erill Lab, at UMBC (USA).
 I studied biology (and some mathematics) at the University of Milan (Italy).
 I'm a math enthusiast and an amateur jazz piano player.
 

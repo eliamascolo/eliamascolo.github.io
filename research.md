@@ -8,7 +8,7 @@ Text here ... 🔬
 
 
 ## Research Lines :microscope:
-<mark>*Click on the titles to read more.*</mark>
+<mark> *Click on the titles to read more.* </mark>
 
 <details>
 <summary>Project name</summary>
