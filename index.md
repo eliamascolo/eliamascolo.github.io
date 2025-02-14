@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="profile_picture_mountain.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus.
+I'm a PhD student in Theoretical and Computational Biology in the Erill Lab at UMBC (USA).
+I studied biology (and some mathematics) at the University of Milan (Italy).
+I'm a math enthusiast and an amateur jazz piano player.
 
 ## Research Interest
 
@@ -25,7 +27,4 @@ I use information theory to study molecular evolution. My research focuses on th
 > -- <cite>Thomas Schneider</cite>
 
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
