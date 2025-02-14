@@ -14,32 +14,36 @@ I'm a math enthusiast and an amateur jazz piano player.
 
 I use information theory to study molecular evolution. My research focuses on the evolution of transcriptional regulatory networks.
 
-
-## Publications
-
-* Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition
-[(Mascolo and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117)
-
-* Simultaneous Entry as an Adaptation to Virulence in a Novel Satellite-Helper System Infecting *Streptomyces* Species
-[(Tagide and Mascolo *et al.*, 2023)](https://doi.org/10.1038/s41396-023-01548-0)
-
-* The Transcriptional Regulator CtrA Controls Gene Expression in Alphaproteobacteria Phages: Evidence for a Lytic Deferment Pathway
-[(Mascolo and Adhikari *et al.*, 2022)](https://doi.org/10.3389/fmicb.2022.918015)
-
-* Toward a Comparative Systems Biology of the Alphaproteobacterial Cell Cycle - Chapter of "Cell Cycle Regulation and Development in Alphaproteobacteria"
-[(Frandi *et al.*, 2022)](https://doi.org/10.1007/978-3-030-90621-4_1)
-
-### In preparation
-
-* Mutational Robustness and Evolvability of Transcription Factor Binding Motifs
-
-
-
----
-
 > Living things are too beautiful for there not to be a mathematics that describes them.
 >
 > -- <cite>Thomas Schneider</cite>
+
+## Contact
+
+### Email
+
+[eliam1@umbc.com](mailto:eliam1@umbc.com)
+
+### Social
+
+<a href="https://bsky.app/profile/eliamascolo.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky Badge" class="socialbadge">
+</a>
+<a href="https://twitter.com/EliaMascolo">
+  <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" class="socialbadge">
+</a>
+<a href="https://orcid.org/0000-0003-2977-7844">
+  <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" class="socialbadge">
+</a>
+<a href="https://www.linkedin.com/in/eliamascolo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="socialbadge">
+</a>
+<a href="https://www.researchgate.net/profile/Elia-Mascolo">
+  <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge" class="socialbadge">
+</a>
+<a href="https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GoogleScholar Badge" class="socialbadge">
+</a>
 
 
 
