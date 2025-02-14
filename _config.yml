@@ -9,7 +9,7 @@ remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: "G-WL39373EB2"
 
 footer: yes
 footer_url: "https://github.com/eliamascolo"
