@@ -32,7 +32,7 @@ I use information theory to study molecular evolution. My research focuses on th
 
 ## Contact
 
-* Email: [eliam1@umbc.com](mailto:eliam1@umbc.com)
+Email: [eliam1@umbc.com](mailto:eliam1@umbc.com)
 
 ### Find me elsewhere
 

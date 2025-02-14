@@ -18,16 +18,16 @@ Text here ...
 
 
 ## Research Lines 🔬
-<mark> *Click on the titles to read more.* </mark>
+<mark><i>Click on the titles to read more.</i></mark>
 
 <details>
-<summary>**Project name**</summary>
+<summary><strong>Project name</strong></summary>
 Text here ...
 </details>
 
 
 <details>
-<summary>**Another project name**</summary>
+<summary><strong>Another project name</strong></summary>
 Text here ...
 </details>
 
