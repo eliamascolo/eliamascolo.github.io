@@ -12,8 +12,14 @@ is_contact: true
 ## Social
 
 <a href="https://bsky.app/profile/eliamascolo.bsky.social">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky" width="150" height="30">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky" width="90" height="30">
 </a>
+Text here
+
+<a href="https://www.linkedin.com/in/eliamascolo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="socialbadge">
+</a>
+
 
 ---
 
