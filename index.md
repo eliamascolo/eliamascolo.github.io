@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_picture_mountain.jpg">
 
-I'm a PhD student in Theoretical and Computational Biology in the Erill Lab at UMBC (USA).
+I'm a PhD student in *Theoretical and Computational Biology* in the Erill Lab, at UMBC (USA).
 I studied biology (and some mathematics) at the University of Milan (Italy).
 I'm a math enthusiast and an amateur jazz piano player.
 
@@ -17,8 +17,20 @@ I use information theory to study molecular evolution. My research focuses on th
 
 ## Publications
 
-1. Lorem ipsum
-2. dolor sit
+* Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition
+[(Mascolo and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117)
+
+* Simultaneous Entry as an Adaptation to Virulence in a Novel Satellite-Helper System Infecting *Streptomyces* Species
+
+* The Transcriptional Regulator CtrA Controls Gene Expression in Alphaproteobacteria Phages: Evidence for a Lytic Deferment Pathway
+
+* Toward a Comparative Systems Biology of the Alphaproteobacterial Cell Cycle - Chapter of "Cell Cycle Regulation and Development in Alphaproteobacteria"
+
+### In preparation
+
+* Mutational Robustness and Evolvability of Transcription Factor Binding Motifs
+
+
 
 ---
 
