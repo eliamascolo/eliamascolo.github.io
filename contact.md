@@ -11,7 +11,7 @@ is_contact: true
 
 ## Social
 
-<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" width="200" />
+<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" width="50" />
 
 ---
 
