@@ -34,7 +34,7 @@ I use information theory to study molecular evolution. My research focuses on th
   <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" class="socialbadge">
 </a>
 <a href="https://www.linkedin.com/in/eliamascolo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="socialbadge">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" class="socialbadge">
 </a>
 <a href="https://www.researchgate.net/profile/Elia-Mascolo">
   <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge" class="socialbadge">
