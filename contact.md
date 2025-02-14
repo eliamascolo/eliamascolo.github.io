@@ -17,19 +17,15 @@ is_contact: true
 <a href="https://twitter.com/EliaMascolo">
   <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" class="socialbadge">
 </a>
-
 <a href="https://orcid.org/0000-0003-2977-7844">
   <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" class="socialbadge">
 </a>
-
 <a href="https://www.linkedin.com/in/eliamascolo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="socialbadge">
 </a>
-
 <a href="https://www.researchgate.net/profile/Elia-Mascolo">
   <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge" class="socialbadge">
 </a>
-
 <a href="https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GoogleScholar Badge" class="socialbadge">
 </a>
