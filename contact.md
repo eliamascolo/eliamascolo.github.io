@@ -11,7 +11,9 @@ is_contact: true
 
 ## Social
 
-<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" width="50" />
+<a href="https://bsky.app/profile/eliamascolo.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky" width="150" height="30">
+</a>
 
 ---
 
