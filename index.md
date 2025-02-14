@@ -20,11 +20,9 @@ I use information theory to study molecular evolution. My research focuses on th
 
 ## Contact
 
-### Email
+* Email: [eliam1@umbc.com](mailto:eliam1@umbc.com)
 
-[eliam1@umbc.com](mailto:eliam1@umbc.com)
-
-### Social
+### Find me elsewhere
 
 <a href="https://bsky.app/profile/eliamascolo.bsky.social">
   <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky Badge" class="socialbadge">
@@ -44,6 +42,8 @@ I use information theory to study molecular evolution. My research focuses on th
 <a href="https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GoogleScholar Badge" class="socialbadge">
 </a>
-
+<a href="https://github.com/eliamascolo">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub Badge" class="socialbadge">
+</a>
 
 
