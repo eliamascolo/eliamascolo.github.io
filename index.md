@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_picture_mountain.jpg">
 
-I'm a PhD student in *Theoretical and Computational Biology* in the Erill Lab, at UMBC (USA).
+I'm a PhD student in **Theoretical and Computational Biology** in the Erill Lab, at UMBC (USA).
 I studied biology (and some mathematics) at the University of Milan (Italy).
 I'm a math enthusiast and an amateur jazz piano player.
 
@@ -31,7 +31,7 @@ I use information theory to study molecular evolution. My research focuses on th
   <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" class="socialbadge">
 </a>
 <a href="https://orcid.org/0000-0003-2977-7844">
-  <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" class="socialbadge">
+  <img src="https://img.shields.io/badge/orcid-A6CE39?&logo=orcid&logoColor=white" alt="ORCID Badge" class="socialbadge">
 </a>
 <a href="https://www.linkedin.com/in/eliamascolo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="socialbadge">
