@@ -12,7 +12,7 @@ markdown: kramdown
 google_analytics: G-WL39373EB2
 #tracking_id: "G-WL39373EB2"
 
-footer: yes
+footer: no
 footer_url: "https://github.com/eliamascolo"
 footer_text: "GitHub page"
 

@@ -24,7 +24,7 @@ I'm a math enthusiast and an amateur jazz piano player.
 
 I use information theory to study molecular evolution. My research focuses on the evolution of transcriptional regulatory networks.
 
-[Research overview](https://eliamascolo.github.io/research)
+[Research overview](https://eliamascolo.github.io/research) 📝 💻 🧬 🔬 🦠
 
 > Living things are too beautiful for there not to be a mathematics that describes them.
 >

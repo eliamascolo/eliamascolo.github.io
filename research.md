@@ -31,7 +31,7 @@ Text here ...
 Text here ...
 </details>
 
-## Media coverage 📰:
+## Media coverage 📰
 ### First discovery of a virus that attaches to another virus [(deCarvalho and Mascolo *et al.*, 2023)](https://www.nature.com/articles/s41396-023-01548-0)
 * [Washington Post](https://www.washingtonpost.com/science/2023/11/13/mindflayer-virus-discovered-maryland/)
 * [Scientific American](https://www.scientificamerican.com/article/vampire-viruses-prey-on-other-viruses-to-replicate-themselves-and-may-hold-the-key-to-new-antiviral-therapies/)
