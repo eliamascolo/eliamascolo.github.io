@@ -4,7 +4,7 @@ layout: default
 
 ## Text
 
-Text here ...
+Text here ... 🔬
 
 
 ## Research Lines :microscope:
@@ -13,7 +13,9 @@ Text here ...
 <details>
 <summary>Project name</summary>
 
+
 Text here ...
+
 </details>
 
 <details>
