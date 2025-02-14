@@ -12,7 +12,7 @@ is_contact: true
 ## Social
 
 <a href="https://bsky.app/profile/eliamascolo.bsky.social">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky" width="90" height="30">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="BlueSky" class="socialbadgenew">
 </a>
 Text here
 
