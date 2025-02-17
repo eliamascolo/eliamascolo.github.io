@@ -12,16 +12,6 @@ layout: default
   gtag('config', 'G-WL39373EB2');
 </script>
 
-<style>
-details {
-  padding: 10px;
-  padding-bottom: 14px;
-  background-color: #e4eaef;
-  border-radius: 5px;
-  cursor: pointer;
-}
-</style>
-
 ## Research Projects 🔬
 
 <mark><i>Click on the titles to read more.</i></mark>
