@@ -32,9 +32,7 @@ The classical theory by Schenider can be seen as a special case where <i>n=1</i>
 I also show how this framework can be applied to study different aspects of target recognition mediated by molecular complexes (how protein flexibility can co-evolve with spacer variability, the thermodynamic efficiency of different recruitment strategies, and the effect of mutation spectra on the evolvability of different information-encoding strategies).
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_Info_Theo_Composite_Motifs.pdf" target="_blank"><b>Open poster</b></a>
-<br>
-</details>
-
+</details><br>
 <details>
 <summary><strong>FLEMINGO</strong></summary>
 I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <strong><i>FLEMINGO</i></strong> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
@@ -63,4 +61,5 @@ Text here ...
 * [The Conversation](https://theconversation.com/viruses-may-be-watching-you-some-microbes-lie-in-wait-until-their-hosts-unknowingly-give-them-the-signal-to-start-multiplying-and-kill-them-189949)
 * [More ...](https://loop-impact.frontiersin.org/impact/article/918015#socialbuzz)
 
+<br><br>
 
