@@ -14,7 +14,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile_picture_mountain.jpg">
+<img class="profile-picture" src="/images/profile_picture_mountain.jpg">
 
 I'm a PhD student in ***Theoretical and Computational Biology*** in the Erill Lab, at UMBC (USA).
 I studied biology (and some mathematics) at the University of Milan (Italy).
