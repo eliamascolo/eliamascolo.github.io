@@ -23,18 +23,14 @@ Text here ...
 <details>
 <summary id="ITCM"><strong>Information Theory of Composite Sequence Motifs</strong></summary>
 Through nucleotide conservation, the genomic positions that must be bound by transcription factors can provide information.
-The information content (named <i>Rsequence</i>) can be measured (in <i>bits</i>) and happens to be nearly equal to the amount of information theoretically required for the target location to be accomplishable (a quantity named <i>Rfrequency</i>) [(Schneider <i>et al.</i>, 1986)](https://doi.org/10.1016/0022-2836(86)90165-8).
-
-AAA
-
-<a href="https://doi.org/10.1016/0022-2836(86)90165-8">(Schneider <i>et al.</i>, 1986)</a>
-
-AAA
-
-I proposed a generalized framework for this fundational theory that can be used to describe the evolution of *composite* sequence motifs of *n* elements [(Mascolo & Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117).
+The information content (named <i>Rsequence</i>) can be measured (in <i>bits</i>) and happens to be nearly equal to the amount of information theoretically required for the target location to be accomplishable (a quantity named <i>Rfrequency</i>)
+<a href="https://doi.org/10.1016/0022-2836(86)90165-8">(Schneider <i>et al.</i>, 1986)</a>.
+I proposed a generalized framework for this fundational theory that can be used to describe the evolution of *composite* sequence motifs of *n* elements
+<a href="https://doi.org/10.1101/2024.11.11.623117">(Mascolo & Erill, 2024)</a>.
 The classical theory by Schenider can be seen as a special case where <i>n=1</i>.
 I also show how this framework can be applied to study different aspects of target recognition mediated by molecular complexes (how protein flexibility can co-evolve with spacer variability, the thermodynamic efficiency of different recruitment strategies, and the effect of mutation spectra on the evolvability of different information-encoding strategies).
-
+<br />
+<br />
 </details>
 
 
