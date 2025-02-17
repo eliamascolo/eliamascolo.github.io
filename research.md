@@ -12,6 +12,16 @@ layout: default
   gtag('config', 'G-WL39373EB2');
 </script>
 
+<style>
+details {
+  padding: 10px;
+  padding-bottom: 14px;
+  background-color: #e4eaef;
+  border-radius: 5px;
+  cursor: pointer;
+}
+</style>
+
 ## Text
 
 Text here ...
