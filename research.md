@@ -32,7 +32,8 @@ The classical theory by Schenider can be seen as a special case where <i>n=1</i>
 I also show how this framework can be applied to study different aspects of target recognition mediated by molecular complexes (how protein flexibility can co-evolve with spacer variability, the thermodynamic efficiency of different recruitment strategies, and the effect of mutation spectra on the evolvability of different information-encoding strategies).
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_Info_Theo_Composite_Motifs.pdf" target="_blank"><b>Open poster</b></a>
-</details><br>
+<br>
+</details>
 
 <details>
 <summary><strong>FLEMINGO</strong></summary>
