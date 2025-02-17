@@ -44,6 +44,7 @@ I developed a motif discovery tool that can discover <i>composite motifs</i> (se
 <details>
 <summary><strong>Cross-replicon gene regulation</strong></summary>
 Text here ...
+<img src="/images/mge-tf.jpg" alt="A diagram representing transcription factor encoded in a bacterial genome that binds to the DNA of a mobile genetic element">
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>Open poster</b></a>
 </details>
