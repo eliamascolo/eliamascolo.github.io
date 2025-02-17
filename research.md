@@ -14,8 +14,8 @@ layout: default
 
 <style>
 details {
-  padding: 10px;
-  padding-bottom: 18px;
+  padding: 12px;
+  padding-bottom: 14px;
   cursor: pointer;
 }
 
