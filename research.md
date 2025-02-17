@@ -15,7 +15,7 @@ layout: default
 <style>
 details {
   padding: 10px;
-  padding-bottom: 14px;
+  padding-bottom: 18px;
   background-color: #e4eaef;
   border-radius: 5px;
   cursor: pointer;
