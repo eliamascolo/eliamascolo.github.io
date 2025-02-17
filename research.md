@@ -32,7 +32,6 @@ I also show how this framework can be applied to study different aspects of targ
 <br />
 &#x1F4CC; <a href="/pdf_files/poster_Info_Theo_Composite_Motifs.pdf" target="_blank"><b>Open poster</b></a>
 
-<br />
 </details>
 <br />
 
@@ -40,7 +39,6 @@ I also show how this framework can be applied to study different aspects of targ
 <summary><strong>FLEMINGO</strong></summary>
 I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <i>FLEMINGO</i> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
 
-<br />
 </details>
 <br />
 
@@ -48,9 +46,8 @@ I developed a motif discovery tool that can discover <i>composite motifs</i> (se
 <summary><strong>Cross-replicon gene regulation</strong></summary>
 Text here ...
 <br />
-&#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>\[Open poster\]</b></a>
+&#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>Open poster</b></a>
 
-<br />
 </details>
 <br />
 
