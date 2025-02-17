@@ -15,7 +15,7 @@ layout: default
 <style>
 details {
   padding: 12px;
-  padding-bottom: 14px;
+  padding-bottom: 4px;
   cursor: pointer;
 }
 
@@ -45,8 +45,7 @@ details > p {
 
 <details>
 <summary id="ITCM"><strong>Information Theory of Composite Sequence Motifs</strong></summary>
-<p>
-Through nucleotide conservation, the genomic positions that must be bound by transcription factors can provide information.
+<p>Through nucleotide conservation, the genomic positions that must be bound by transcription factors can provide information.
 The information content (named <i>Rsequence</i>) can be measured (in <i>bits</i>) and happens to be nearly equal to the amount of information theoretically required for the target location to be accomplishable (a quantity named <i>Rfrequency</i>)
 <a href="https://doi.org/10.1016/0022-2836(86)90165-8">(Schneider <i>et al.</i>, 1986)</a>.
 I proposed a generalized framework for this fundational theory that can be used to describe the evolution of *composite* sequence motifs of *n* elements
@@ -60,16 +59,14 @@ I also show how this framework can be applied to study different aspects of targ
 
 <details>
 <summary><strong>FLEMINGO</strong></summary>
-<p>
-I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <strong><i>FLEMINGO</i></strong> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
+<p>I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <strong><i>FLEMINGO</i></strong> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
 <img src="/images/FLEMINGO_logo.jpg" alt="The logo of the bioinformatic tool FLEMINGO">
 </p>
 </details>
 
 <details>
 <summary><strong>Cross-replicon gene regulation</strong></summary>
-<p>
-Text here ...
+<p>Text here ...
 <img src="/images/mge-tf.jpg" alt="A diagram representing transcription factor encoded in a bacterial genome that binds to the DNA of a mobile genetic element">
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>Open poster</b></a>
