@@ -26,9 +26,10 @@ details > summary > * {
 details > summary {
   padding: 4px;
   background-color: #e4eaef;
+  box-shadow: 1px 1px 2px #bbbbbb;
   border: none;
   cursor: pointer;
-}
+}	
 
 details > p {
   background-color: #e4eaef;
@@ -41,7 +42,7 @@ details > p {
 
 ## Research Projects 🔬
 
-<mark><i>Click on the titles to read more.</i></mark>
+<i>Click on the titles to read more.</i>
 
 <details>
 <summary id="ITCM"><strong>Information Theory of Composite Sequence Motifs</strong></summary>
