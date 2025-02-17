@@ -16,11 +16,10 @@ layout: default
 details {
   padding: 10px;
   padding-bottom: 18px;
-
   cursor: pointer;
 }
 
-summary {
+summary > * {
   display: inline;
   background-color: #e4eaef;
   border-radius: 5px;
