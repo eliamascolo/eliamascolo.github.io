@@ -32,7 +32,7 @@ details > summary {
 
 details > p {
   background-color: #e4eaef;
-  padding: 4px;
+  padding: 1px;
   box-shadow: 1px 1px 2px #bbbbbb;
   margin: 0;
 }
