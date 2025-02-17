@@ -21,10 +21,18 @@ Text here ...
 <mark><i>Click on the titles to read more.</i></mark>
 
 <details>
-<summary><strong>Information Theory of Composite Sequence Motifs</strong></summary>
+<summary id="ITCM"><strong>Information Theory of Composite Sequence Motifs</strong></summary>
 Through nucleotide conservation, the genomic positions that must be bound by transcription factors can provide information.
-The information content (named *Rsequence*) can be measured (in *bits*) and happens to be nearly equal to the amount of information theoretically required for the target location to be accomplishable (a quantity named *Rfrequency*) [(Schneider *et al.*, 1986)](https://doi.org/10.1016/0022-2836(86)90165-8). I proposed a generalized framework for this fundational theory that can be used to describe the evolution of *composite* sequence motifs of *n* elements [(Mascolo & Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117).
-The classical theory by Schenider can be seen as a special case where *n=1*.
+The information content (named <i>Rsequence</i>) can be measured (in <i>bits</i>) and happens to be nearly equal to the amount of information theoretically required for the target location to be accomplishable (a quantity named <i>Rfrequency</i>) [(Schneider <i>et al.</i>, 1986)](https://doi.org/10.1016/0022-2836(86)90165-8).
+
+AAA
+
+<a href="https://doi.org/10.1016/0022-2836(86)90165-8">(Schneider <i>et al.</i>, 1986)</a>
+
+AAA
+
+I proposed a generalized framework for this fundational theory that can be used to describe the evolution of *composite* sequence motifs of *n* elements [(Mascolo & Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117).
+The classical theory by Schenider can be seen as a special case where <i>n=1</i>.
 I also show how this framework can be applied to study different aspects of target recognition mediated by molecular complexes (how protein flexibility can co-evolve with spacer variability, the thermodynamic efficiency of different recruitment strategies, and the effect of mutation spectra on the evolvability of different information-encoding strategies).
 
 </details>
@@ -32,7 +40,7 @@ I also show how this framework can be applied to study different aspects of targ
 
 <details>
 <summary><strong>FLEMINGO</strong></summary>
-I developed a motif discovery tool that can discover *composite motifs* (see [Composite Sequence Motifs](#Information-Theory-of-Composite-Sequence-Motifs)) in biological data (sets of co-regulated promoters) through evolutionary computation.
+I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <i>FLEMINGO</i> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
 </details>
 
 ## Media coverage 📰
