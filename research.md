@@ -30,6 +30,7 @@ I proposed a generalized framework for this fundational theory that can be used 
 The classical theory by Schenider can be seen as a special case where <i>n=1</i>.
 I also show how this framework can be applied to study different aspects of target recognition mediated by molecular complexes (how protein flexibility can co-evolve with spacer variability, the thermodynamic efficiency of different recruitment strategies, and the effect of mutation spectra on the evolvability of different information-encoding strategies).
 
+&#x1F4CC; <a href="/pdf_files/poster_Info_Theo_Composite_Motifs.pdf" target="_blank"><b>Open poster</b></a>
 
 <br />
 <br />
@@ -37,12 +38,10 @@ I also show how this framework can be applied to study different aspects of targ
 <br />
 <br />
 
-
-<a href="/poster_ISMB_Info_Theo_Composite_Motifs.pdf" target="_blank"><b>poster</b></a>
-
 <details>
 <summary><strong>FLEMINGO</strong></summary>
 I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <i>FLEMINGO</i> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
+
 <br />
 <br />
 </details>
@@ -52,6 +51,10 @@ I developed a motif discovery tool that can discover <i>composite motifs</i> (se
 <details>
 <summary><strong>Cross-replicon gene regulation</strong></summary>
 Text here ...
+
+&#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank">\[<b>Open poster</b>\]</a>
+
+
 <br />
 <br />
 </details>
