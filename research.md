@@ -22,11 +22,6 @@ details {
 }
 </style>
 
-## Text
-
-Text here ...
-
-
 ## Research Projects 🔬
 
 <mark><i>Click on the titles to read more.</i></mark>
