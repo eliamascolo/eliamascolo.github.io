@@ -4,11 +4,12 @@
 
 details {
   padding: 10px;
-  padding-bottom: 10px;
   background-color: #e4eaef;
   border-radius: 5px;
 }
 
 summary {
   display: inline-flex;
+  padding-bottom: 10px;
+  cursor: pointer;
 }
