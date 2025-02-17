@@ -15,7 +15,7 @@ layout: default
 <style>
 details {
   padding: 12px;
-  padding-bottom: 4px;
+  padding-bottom: 2px;
   cursor: pointer;
 }
 
@@ -34,7 +34,7 @@ details > p {
   background-color: #e4eaef;
   padding: 1px;
   box-shadow: 1px 1px 2px #bbbbbb;
-  margin: 0;
+  margin: 0;
 }
 
 </style>
