@@ -61,14 +61,22 @@ I also show how this framework can be applied to study different aspects of targ
 <details>
 <summary><strong>FLEMINGO</strong></summary>
 <p>I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <strong><i>FLEMINGO</i></strong> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
-<img src="/images/FLEMINGO_logo.jpg" alt="The logo of the bioinformatic tool FLEMINGO">
+<img src="/images/FLEMINGO_logo.jpg" alt="The logo of the bioinformatic tool FLEMINGO, showing flamingos connecting sequence logos with their legs">
 </p>
 </details>
 
 <details>
 <summary><strong>Cross-replicon gene regulation</strong></summary>
-<p>Text here ...
-<img src="/images/mge-tf.jpg" alt="A diagram representing transcription factor encoded in a bacterial genome that binds to the DNA of a mobile genetic element">
+<p>In a transcriptional regulatory network (TRN), every node represents a gene, and every link represents a transcriptional regulation,
+connecting a TF with one of its targets.
+
+Could there be hybrid TRNs comprising genes that are encoded on different replicons? For example, in bacterial cells we could find the bacterial genomes, but also natural plasmids, as well as bacteriophage genomes and other mobile genetic elements (MGEs).
+
+In 2022, we showed that many phylogenetically unrelated bacteriophages that infect Alphaproteobacteria have convergently evolved DNA binding sites for the host cell cycle regulator CtrA, suggesting that these bacteriophages synchronize lysis with the life stage of the host to maximize their infective yield, through a pathway that we termed lytic deferment.
+
+<a href="https://doi.org/10.3389/fmicb.2022.918015">(Mascolo *et al.*, 2022)</a>.
+
+<img src="/images/hybrid_TRN.png" alt="A diagram representing a hybrid transcriptional regulatory network, where some nodes belong to a bacterial chromosome and some to mobile genetic elements">
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>Open poster</b></a>
 </p>
@@ -76,7 +84,7 @@ I also show how this framework can be applied to study different aspects of targ
 
 ## Media coverage 📰
 
-### First discovery of a virus that attaches to another virus [(deCarvalho and Mascolo *et al.*, 2023)](https://www.nature.com/articles/s41396-023-01548-0)
+### First discovery of a virus that travels attached to another virus [(deCarvalho and Mascolo *et al.*, 2023)](https://www.nature.com/articles/s41396-023-01548-0)
 
 * [Washington Post](https://www.washingtonpost.com/science/2023/11/13/mindflayer-virus-discovered-maryland/)
 * [Scientific American](https://www.scientificamerican.com/article/vampire-viruses-prey-on-other-viruses-to-replicate-themselves-and-may-hold-the-key-to-new-antiviral-therapies/)
