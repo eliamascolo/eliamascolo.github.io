@@ -89,7 +89,7 @@ I developed an algorithm to systematically predict the presence of such hybrid T
 </details>
 
 <details>
-<summary><strong>Project here</strong></summary>
+<summary><strong>Viral binding &#x1f47e;</strong></summary>
 <p>In a work where I share co-first authorship with Tagide deCarvalho, we describe for the first time a virus that attaches itself to another virus. Tagide deCarvalho discovered this novel type of interaction while observing under the electron microscope (TEM) a novel bacteriophage that our students named MindFlayer. She noticed that most of them had a smaller virus attached to the "neck" (the part that connects the head, or capsid, to the tail). This explained what earlier, during the genome sequencing of MindFlayer, seemed to be a systematic contamination. With the microscope, she revealed that the shorter secondary sequence was not a contamination but the genome of this smaller hitchhiker, which we named MiniFlayer. I performed a bioinformatics analysis, showing that MindFlayer and MiniFlayer have been co-evolving for a long time, and further suggesting that MiniFlayer exploits the genes of MindFlayer. However, unlike previously known interactions, it doesn't wait in the host cell for MindFlayer to co-infect. Rather, it ensures the presence of the genes it needs by entering the host together with MindFlayer.
 
 <img src="/images/MindFlayer_MiniFlayer.jpg" alt="A picture taken with the electron transmission microscope of MiniFlayer attached to MindFlayer.">
