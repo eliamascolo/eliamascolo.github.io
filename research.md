@@ -53,6 +53,8 @@ I proposed a generalized framework for this fundational theory that can be used 
 <a href="https://doi.org/10.1101/2024.11.11.623117">(Mascolo & Erill, 2024)</a>.
 The classical theory by Schenider can be seen as a special case where <i>n=1</i>.
 I also show how this framework can be applied to study different aspects of target recognition mediated by molecular complexes (how protein flexibility can co-evolve with spacer variability, the thermodynamic efficiency of different recruitment strategies, and the effect of mutation spectra on the evolvability of different information-encoding strategies).
+
+<img src="/images/Rspacer.jpg" alt="A diagram representing a composite motif composed of two sequence patterns separated by a spacer of variable length.">
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_Info_Theo_Composite_Motifs.pdf" target="_blank"><b>Open poster</b></a>
 </p>
@@ -68,13 +70,15 @@ I also show how this framework can be applied to study different aspects of targ
 <details>
 <summary><strong>Cross-replicon gene regulation</strong></summary>
 <p>In a transcriptional regulatory network (TRN), every node represents a gene, and every link represents a transcriptional regulation,
-connecting a TF with one of its targets.
+connecting a transcription factor with one of its targets.
 
-Could there be hybrid TRNs comprising genes that are encoded on different replicons? For example, in bacterial cells we could find the bacterial genomes, but also natural plasmids, as well as bacteriophage genomes and other mobile genetic elements (MGEs).
+Could there be hybrid TRNs comprising genes that are encoded on different replicons? For example, in bacterial cells we could find the bacterial genome, but also natural plasmids, as well as bacteriophage genomes and other mobile genetic elements (MGEs).
 
 In 2022, we showed that many phylogenetically unrelated bacteriophages that infect Alphaproteobacteria have convergently evolved DNA binding sites for the host cell cycle regulator CtrA, suggesting that these bacteriophages synchronize lysis with the life stage of the host to maximize their infective yield, through a pathway that we termed lytic deferment.
 
 <a href="https://doi.org/10.3389/fmicb.2022.918015">(Mascolo *et al.*, 2022)</a>.
+
+I developed an algorithm to systematically predict the presence of such hybrid TRNs. This method can re-discover the few cases that are already known in the literature, but it also finds many new realistic candidates, revealing that hybrid TRNs are highly prevalent in the microbial world (unpublished work). Several of its predictions are currently being experimentally validated.
 
 <img src="/images/hybrid_TRN.png" alt="A diagram representing a hybrid transcriptional regulatory network, where some nodes belong to a bacterial chromosome and some to mobile genetic elements">
 <br /><br />
