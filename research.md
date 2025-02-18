@@ -45,7 +45,7 @@ details > p {
 <i>Click on the titles to read more.</i>
 
 <details>
-<summary id="ITCM"><strong>Information Theory of Composite Sequence Motifs</strong></summary>
+<summary id="ITCM"><strong>Information Theory of Composite Sequence Motifs &#x1f9ec;</strong></summary>
 <p>Through nucleotide conservation, the genomic positions that must be bound by transcription factors can provide information.
 The information content (named <i>Rsequence</i>) can be measured (in <i>bits</i>) and happens to be nearly equal to the amount of information theoretically required for the target location to be accomplishable (a quantity named <i>Rfrequency</i>)
 <a href="https://doi.org/10.1016/0022-2836(86)90165-8">(Schneider <i>et al.</i>, 1986)</a>.
