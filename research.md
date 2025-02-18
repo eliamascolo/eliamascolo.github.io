@@ -83,8 +83,8 @@ I developed an algorithm to systematically predict the presence of such hybrid T
 <img src="/images/hybrid_TRN.png" alt="A diagram representing a hybrid transcriptional regulatory network, where some nodes belong to a bacterial chromosome and some to mobile genetic elements">
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>Open poster</b></a>
-
-&#x1F4CC; <a href="#mge-tf-news">a link</a>
+<br>
+&#x1F4CC; <a href="#mge-tf-news">Coverage on host-phage cross-regulation</a>
 </p>
 </details>
 
