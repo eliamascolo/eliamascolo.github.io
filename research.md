@@ -78,11 +78,13 @@ In 2022, we showed that many phylogenetically unrelated bacteriophages that infe
 
 <a href="https://doi.org/10.3389/fmicb.2022.918015">(Mascolo *et al.*, 2022)</a>.
 
-I developed an algorithm to systematically predict the presence of such hybrid TRNs. This method can re-discover the few cases that are already known in the literature, but it also finds many new realistic candidates, revealing that hybrid TRNs are highly prevalent in the microbial world (unpublished work). Several of its predictions are currently being experimentally validated.
+I developed an algorithm to systematically predict the presence of such hybrid TRNs. This method can re-discover the few cases that are already known in the literature, but it also finds many new realistic candidates, revealing that hybrid TRNs are highly prevalent in the microbial world (<strong>unpublished work</strong>). Several of its predictions are currently being experimentally validated.
 
 <img src="/images/hybrid_TRN.png" alt="A diagram representing a hybrid transcriptional regulatory network, where some nodes belong to a bacterial chromosome and some to mobile genetic elements">
 <br /><br />
 &#x1F4CC; <a href="/pdf_files/poster_MGE_TF.pdf" target="_blank"><b>Open poster</b></a>
+
+&#x1F4CC; <a href="#mge-tf-news">a link</a>
 </p>
 </details>
 
@@ -95,6 +97,8 @@ I developed an algorithm to systematically predict the presence of such hybrid T
 * [More ...](https://nature.altmetric.com/details/155926514/news)
 
 ### Host-phage cross-regulation [(Mascolo and Adhikari *et al.*, 2022)](https://doi.org/10.3389/fmicb.2022.918015)
+
+<div id="mge-tf-news"></div>
 
 * [PHYS.ORG](https://phys.org/news/2022-09-viruses-eyes-ears.html)
 * [The Conversation](https://theconversation.com/viruses-may-be-watching-you-some-microbes-lie-in-wait-until-their-hosts-unknowingly-give-them-the-signal-to-start-multiplying-and-kill-them-189949)
