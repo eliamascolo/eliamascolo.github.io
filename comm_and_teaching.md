@@ -60,8 +60,9 @@ Guest lectures for high school students (2022 - 2023):
 “**Stranger Things of the Microcosmos**” (May 26, 2024; Baltimore, USA)  
 &#x1F4C4; [Slides]("./pdf_files/presentations/Elia_Mascolo_Balticon2024_Stranger_Things_of_the_Microcosmos.pdf")  
 &#x1F3AC; [YouTube video](https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD)  
-<img src="./images/stranger_things.jpg" alt="." width="50%">
+<img src="./images/stranger_things.jpg" alt="." style="width: 50%; height: 50%;">
 <img src="./images/stranger_things.jpg" alt=".">
+
 
 * Invited talk at QuantumPhotonics Club podcast  
 “**Viruses may have eyes and ears on us**” (Oct 29, 2022)
@@ -69,12 +70,6 @@ Guest lectures for high school students (2022 - 2023):
 * Online presentations for the general public (local cultural associations) during the lockdown in Italy to explain how **COVID-19 vaccines** work and how they are developed (> 100 attendees). (Jan 2021)
 
 <br><br>
-
-<img src="./images/stranger_things.jpg" alt=".">
-
-<br><br>
-
-
 
 
 
