@@ -98,6 +98,10 @@ I developed an algorithm to systematically predict the presence of such hybrid T
 </p>
 </details>
 
+## Publications
+
+You can find an up-to-date list of my publications [here](https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao).
+
 ## Media coverage 📰
 
 ### First discovery of a virus that travels attached to another virus [(deCarvalho and Mascolo *et al.*, 2023)](https://www.nature.com/articles/s41396-023-01548-0)
