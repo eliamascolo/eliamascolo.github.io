@@ -46,6 +46,8 @@ Guest lectures for high school students (2022 - 2023):
 
 *   Guest lecture “Motif matching and motif discovery” for the course **Introduction to Bioinformatics and Computational Biology** (BIOL 313 - UMBC): Spring 2022, Spring 2023, Spring 2024
 
+&nbsp;<img src="./images/university_logos.jpg" alt="The cover for the presentation.">
+
 # Science communication
 
 * Invited talk for high school students at *Melzo Incontra la Scienza* (Melzo meets Science)  
