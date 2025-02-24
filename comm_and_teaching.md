@@ -22,7 +22,7 @@ Together with Yseult Héjja-Brichard, I developed an interactive class for scien
 
 &#x1F5A5; <a href="https://github.com/eliamascolo/replicards">Replicards source code</a>
 
-<img src="/images/replicards_social_media_preview.jpg" alt="The logo of the Replicards, a card game for teaching biological evolution.">
+<img src="/images/replicards_social_media_preview_cropped.jpg" alt="The logo of the Replicards, a card game for teaching biological evolution.">
 
 ## Guest lectures
 
@@ -66,6 +66,10 @@ Guest lectures for high school students (2022 - 2023):
 “**Viruses may have eyes and ears on us**” (Oct 29, 2022)
 
 * Online presentations for the general public (local cultural associations) during the lockdown in Italy to explain how **COVID-19 vaccines** work and how they are developed (> 100 attendees). (Jan 2021)
+
+<br><br>
+
+<img src="./images/stranger_things.jpg" alt=".">
 
 <br><br>
 
