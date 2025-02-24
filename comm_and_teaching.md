@@ -21,8 +21,7 @@ Together with Yseult Héjja-Brichard, I developed an interactive class for scien
 &#x1F517; <a href="https://replicards.netlify.app/">Replicards website</a>\
 &#x1F5A5; <a href="https://github.com/eliamascolo/replicards">Replicards source code</a>
 
-&nbsp;<a href="https://replicards.netlify.app/"><img src="/images/replicards_social_media_preview_cropped.jpg" alt="The logo of the Replicards, a card game for teaching biological evolution." style="width: 50%; height: 50%;">/a>
-
+&nbsp; <a href="https://replicards.netlify.app/"><img src="/images/replicards_social_media_preview_cropped.jpg" alt="The logo of the Replicards, a card game for teaching biological evolution." style="width: 60%; height: 60%;"></a>
 
 ## Guest lectures
 
@@ -60,7 +59,7 @@ Guest lectures for high school students (2022 - 2023):
 “**Stranger Things of the Microcosmos**” (May 26, 2024; Baltimore, USA)  
 &#x1F4C4; [Slides]("./pdf_files/presentations/Elia_Mascolo_Balticon2024_Stranger_Things_of_the_Microcosmos.pdf")  
 &#x1F3AC; [YouTube video](https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD)  
-&nbsp;<a href="https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD"><img src="./images/stranger_things.jpg" alt="The cover for the presentation." style="width: 50%; height: 50%;"></a>
+&nbsp;<a href="https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD"><img src="./images/stranger_things.jpg" alt="The cover for the presentation." style="width: 60%; height: 60%;"></a>
 
 * Invited talk at QuantumPhotonics Club podcast  
 “**Viruses may have eyes and ears on us**” (Oct 29, 2022)
