@@ -54,13 +54,14 @@ Guest lectures for high school students (2022 - 2023):
 
 * Invited talk for Euresis association  
 “**Good at evolving – The Evolution of Mutation Rates**” (Aug 20, 2024; Rimini ,Italy)  
-&#x25B6; [YouTube video](https://youtu.be/-q6mwt5FQmw)  (**in Italian**; starting from min [28:15](https://youtu.be/-q6mwt5FQmw?si=uP9sQgUiDmiPxUEv&t=1695))
+&#x1F3AC; [YouTube video](https://youtu.be/-q6mwt5FQmw)  (**in Italian**; starting from min [28:15](https://youtu.be/-q6mwt5FQmw?si=uP9sQgUiDmiPxUEv&t=1695))
 
 * Invited talk at Balticon  
 “**Stranger Things of the Microcosmos**” (May 26, 2024; Baltimore, USA)  
 &#x1F4C4; [Slides]("./pdf_files/presentations/Elia_Mascolo_Balticon2024_Stranger_Things_of_the_Microcosmos.pdf")  
-&#x25B6; [YouTube video](https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD)  
-[![Talk cover]("./images/stranger_things.jpg")](https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD)
+&#x1F3AC; [YouTube video](https://youtu.be/pdAtQiiDrkI?si=eKJ4Dz2CHKnddyVD)  
+<img src="./images/stranger_things.jpg" alt="." width="50%">
+<img src="./images/stranger_things.jpg" alt=".">
 
 * Invited talk at QuantumPhotonics Club podcast  
 “**Viruses may have eyes and ears on us**” (Oct 29, 2022)
