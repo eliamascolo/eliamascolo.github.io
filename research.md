@@ -100,7 +100,7 @@ I developed an algorithm to systematically predict the presence of such hybrid T
 
 ## Publications
 
-You can find an up-to-date list of my publications [here](https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao).
+[Here](https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao) you can find an up-to-date list of my publications.
 
 ## Media coverage 📰
 
