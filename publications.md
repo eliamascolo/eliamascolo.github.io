@@ -1,4 +1,6 @@
 
+THIS SECTION IS IN PROGRESS ...
+
 ## Publications
 \* co-first authors
 
@@ -41,4 +43,7 @@
 
 ### Book chapter
 * Antonio Frandi, Francesco Pini, Wanassa Beroual, Andrea Bianchetti, Alice Chiodi, **Elia Mascolo**, Lorenzo Miano, Greta Petazzoni, Emanuele G. Biondi, and Matteo Brilli. “Toward a Comparative Systems Biology of the Alphaproteobacterial Cell Cycle.” In *Cell Cycle Regulation and Development in Alphaproteobacteria*, edited by Emanuele Biondi, 1–27. Cham: Springer International Publishing, 2022. <https://doi.org/10.1007/978-3-030-90621-4_1>
+
+---
+
 
