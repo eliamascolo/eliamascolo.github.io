@@ -27,6 +27,8 @@ nav:
    link: "research"
  - name: "CV"
    link: "/pdf_files/CV_Elia_Mascolo.pdf"
+ - name: "Publications"
+   link: "publications"
  - name: "Communication and Teaching"
    link: "comm_and_teaching"
 
