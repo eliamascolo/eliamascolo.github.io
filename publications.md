@@ -6,29 +6,19 @@ THIS SECTION IS IN PROGRESS ...
 
 * "Simultaneous Entry as an Adaptation to Virulence in a Novel Satellite-Helper System Infecting *Streptomyces* Species"<br>[(deCarvalho\* and **Mascolo**\* *et al.*, 2023)](https://doi.org/10.1038/s41396-023-01548-0)
 
-* "The Transcriptional Regulator CtrA Controls Gene Expression in Alphaproteobacteria Phages: Evidence for a Lytic Deferment Pathway"
-
-[(**Mascolo**\* and Adhikari\* *et al.*, 2022)](https://doi.org/10.3389/fmicb.2022.918015)
+* "The Transcriptional Regulator CtrA Controls Gene Expression in Alphaproteobacteria Phages: Evidence for a Lytic Deferment Pathway"<br>[(**Mascolo**\* and Adhikari\* *et al.*, 2022)](https://doi.org/10.3389/fmicb.2022.918015)
 
 ### Pre-prints or in preparation
 
-* "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"
+* "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"<br>[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
 
-[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
+* "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2025) [under revision]
 
-* "Replicards: Teaching evolution with a card game"
-
-(**Mascolo**\* and Héjja-Brichard\*, 2025) [under revision]
-
-* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"
-
-(**Mascolo**\* and Mekasha\* *et al.*, 2025) [manuscript in preparation]
+* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2025) [manuscript in preparation]
 
 ### Book chapter
 
-* "Toward a Comparative Systems Biology of the Alphaproteobacterial Cell Cycle" - Chapter of "Cell Cycle Regulation and Development in Alphaproteobacteria"
-
-[(Frandi *et al.*, 2022)](https://doi.org/10.1007/978-3-030-90621-4_1)
+* "Toward a Comparative Systems Biology of the Alphaproteobacterial Cell Cycle" - Chapter of "Cell Cycle Regulation and Development in Alphaproteobacteria"<br>[(Frandi *et al.*, 2022)](https://doi.org/10.1007/978-3-030-90621-4_1)
 
 
 <!--
