@@ -2,7 +2,10 @@
 THIS SECTION IS IN PROGRESS ...
 
 ## Publications
+
 \* co-first authors
+
+### Peer-reviewed
 
 * "Simultaneous Entry as an Adaptation to Virulence in a Novel Satellite-Helper System Infecting *Streptomyces* Species"<br>[(deCarvalho\* and **Mascolo**\* *et al.*, 2023)](https://doi.org/10.1038/s41396-023-01548-0)
 
@@ -14,7 +17,7 @@ THIS SECTION IS IN PROGRESS ...
 
 * "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2025) [under revision]
 
-* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2025) [manuscript in preparation]
+* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2025) [in preparation]
 
 ### Book chapter
 
