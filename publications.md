@@ -1,6 +1,4 @@
 
-THIS SECTION IS IN PROGRESS ...
-
 ## Publications
 
 \* co-first authors
