@@ -62,7 +62,7 @@ I also show how this framework can be applied to study different aspects of targ
 
 <details>
 <summary><strong>FLEMINGO &#x1F9A9;</strong></summary>
-<p>I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <strong><i>FLEMINGO</i></strong> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
+<p>I developed a motif discovery tool that can discover <i>composite motifs</i> (see <a href="#ITCM">Composite Sequence Motifs</a> ) in biological data (sets of co-regulated promoters) through evolutionary computation. The tool, called <strong>FLEMINGO</strong> (for <strong>FLE</strong>xible <strong>M</strong>otif <strong>IN</strong>ference via <strong>G</strong>enetic <strong>O</strong>ptimization), can detect motifs encompassing spacers (or <i>gaps</i>) of variable length, as well as DNA shape features (inferred from the DNA sequence).
 <img src="/images/FLEMINGO_logo.jpg" alt="The logo of the bioinformatic tool FLEMINGO, showing flamingos connecting sequence logos with their legs">
 </p>
 </details>
@@ -100,7 +100,7 @@ I developed an algorithm to systematically predict the presence of such hybrid T
 
 ## Publications
 
-[Here](https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao) you can find an up-to-date list of my publications.
+[Here](https://eliamascolo.github.io/publications) you can find an up-to-date list of my publications.
 
 ## Media coverage 📰
 
