@@ -16,13 +16,12 @@ layout: default
 
 <img class="profile-picture" src="/images/profile_picture_mountain.jpg">
 
-I'm a PhD student in ***Theoretical and Computational Biology*** in the Erill Lab, at UMBC (USA).
-I studied biology (and some mathematics) at the University of Milan (Italy).
+I'm a researcher in ***Theoretical and Computational Biology*** in the group of Gašper Tkačik at the Institute of Science and Technology Austria (ISTA). I obtained my PhD with Ivan Erill at UMBC (Baltimore, US). Previously I studied biology (and some mathematics) at the University of Milan (Italy).
 I'm a math enthusiast and an amateur jazz piano player.
 
 ## Research Interest
 
-I use information theory to study molecular evolution. My research focuses on the evolution of transcriptional regulatory networks.
+I use information theory to study molecular evolution. My research focuses on the evolution of information in DNA sequences that code for transcriptional regulatory networks.
 
 [Research overview](https://eliamascolo.github.io/research) 📝 💻 🧬 🔬 🦠
 
@@ -32,7 +31,7 @@ I use information theory to study molecular evolution. My research focuses on th
 
 ## Contact
 
-Email: [eliam1@umbc.com](mailto:eliam1@umbc.com)
+Email: [elia.mascolo@ista.ac.at](mailto:elia.mascolo@ista.ac.at)
 
 ### Find me elsewhere
 
