@@ -16,7 +16,7 @@ layout: default
 
 <img class="profile-picture" src="/images/profile_picture_mountain.jpg">
 
-I'm a researcher in ***Theoretical and Computational Biology*** in the group of Gašper Tkačik at the Institute of Science and Technology Austria (ISTA). I obtained my PhD with Ivan Erill at UMBC (Baltimore, US). Previously I studied biology (and some mathematics) at the University of Milan (Italy).
+I'm a researcher in ***Theoretical and Computational Biology*** in the [group of Gašper Tkačik](https://ist.ac.at/en/research/tkacik-group/) at the Institute of Science and Technology Austria (ISTA). I obtained my PhD with Ivan Erill at UMBC (Baltimore, US). Previously I studied biology (and some mathematics) at the University of Milan (Italy).
 I'm a math enthusiast and an amateur jazz piano player.
 
 ## Research Interest
