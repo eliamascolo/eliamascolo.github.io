@@ -19,7 +19,7 @@ https://doi.org/10.48550/arXiv.2601.21480) [pre-print]
 
 * "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"<br>[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
 
-* "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2026) [under revision]
+* "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2026) [in preparation]
 
 * "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2026) [in preparation]
 
