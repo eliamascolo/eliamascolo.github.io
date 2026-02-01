@@ -11,11 +11,17 @@
 
 ### Pre-prints or in preparation
 
+* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, 2026)](
+https://doi.org/10.48550/arXiv.2601.19681) [pre-print]
+
+* "Long-term evolution of regulatory DNA sequences. Part 2: Theory and future challenges"<br>[(**Mascolo** *et al.*, 2026)](
+https://doi.org/10.48550/arXiv.2601.21480) [pre-print]
+
 * "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"<br>[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
 
-* "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2025) [under revision]
+* "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2026) [under revision]
 
-* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2025) [in preparation]
+* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2026) [in preparation]
 
 ### Book chapter
 
