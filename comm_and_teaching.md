@@ -19,7 +19,7 @@ layout: default
 Together with [Yseult Héjja-Brichard](https://yseulthb.github.io/), I developed an interactive class for science teachers to teach biological evolution through a card game.
 
 &#x1F517; <a href="https://replicards.netlify.app/">Replicards website</a>\
-&#xFE0F; <a href="https://github.com/eliamascolo/replicards">Replicards source code</a>\
+&#128421; <a href="https://github.com/eliamascolo/replicards">Replicards source code</a>\
 &#x1F4C4; <a href="https://doi.org/10.32942/X2KQ1H">Replicards pre-print</a>
 
 &nbsp; <a href="https://replicards.netlify.app/"><img src="/images/replicards_social_media_preview_cropped.jpg" alt="The logo of the Replicards, a card game for teaching biological evolution." style="width: 60%; height: 60%;"></a>
