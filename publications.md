@@ -5,21 +5,20 @@
 
 ### Peer-reviewed
 
+* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, accepted)](
+https://doi.org/10.48550/arXiv.2601.19681) [pre-print]
+
+* "Long-term evolution of regulatory DNA sequences. Part 2: Theory and future challenges"<br>[(**Mascolo** *et al.*, 2026)](https://doi.org/10.1016/j.gde.2026.102472)
+
 * "Simultaneous Entry as an Adaptation to Virulence in a Novel Satellite-Helper System Infecting *Streptomyces* Species"<br>[(deCarvalho\* and **Mascolo**\* *et al.*, 2023)](https://doi.org/10.1038/s41396-023-01548-0)
 
 * "The Transcriptional Regulator CtrA Controls Gene Expression in Alphaproteobacteria Phages: Evidence for a Lytic Deferment Pathway"<br>[(**Mascolo**\* and Adhikari\* *et al.*, 2022)](https://doi.org/10.3389/fmicb.2022.918015)
 
 ### Pre-prints or in preparation
 
-* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, 2026)](
-https://doi.org/10.48550/arXiv.2601.19681) [pre-print]
-
-* "Long-term evolution of regulatory DNA sequences. Part 2: Theory and future challenges"<br>[(**Mascolo** *et al.*, 2026)](
-https://doi.org/10.48550/arXiv.2601.21480) [pre-print]
-
 * "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"<br>[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
 
-* "Replicards: Teaching evolution with a card game"<br>(**Mascolo**\* and Héjja-Brichard\*, 2026) [in preparation]
+* "*Replicards*: Teaching and simulating evolution with a card-based experiment"<br>(**Mascolo**\* and Héjja-Brichard\*, 2026) (https://doi.org/10.32942/X2KQ1H)[pre-print]
 
 * "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2026) [in preparation]
 
