@@ -5,8 +5,7 @@
 
 ### Peer-reviewed
 
-* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, accepted)](
-https://doi.org/10.48550/arXiv.2601.19681) [pre-print]
+* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, 2026)](https://doi.org/10.48550/arXiv.2601.19681)
 
 * "Long-term evolution of regulatory DNA sequences. Part 2: Theory and future challenges"<br>[(**Mascolo** *et al.*, 2026)](https://doi.org/10.1016/j.gde.2026.102472)
 
@@ -20,7 +19,7 @@ https://doi.org/10.48550/arXiv.2601.19681) [pre-print]
 
 * "*Replicards*: Teaching and simulating evolution with a card-based experiment"<br>[(**Mascolo**\* and Héjja-Brichard\*, 2026)](https://doi.org/10.32942/X2KQ1H) [pre-print]
 
-* "Mutational Robustness and Evolvability of Transcription Factor Binding Motifs"<br>(**Mascolo**\* and Mekasha\* *et al.*, 2026) [in preparation]
+* "Why Nucleotides Contribute Independently To Sequence Recognition"<br>(Mekasha\* and **Mascolo**\* *et al.*, 2026) [in preparation]
 
 ### Book chapter
 
