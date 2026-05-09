@@ -5,7 +5,7 @@
 
 ### Peer-reviewed
 
-* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, 2026)](https://doi.org/10.48550/arXiv.2601.19681)
+* "Long-term evolution of regulatory DNA sequences. Part 1: Simulations on global, biophysically-realistic genotype-phenotype maps"<br>[(**Mascolo** *et al.*, 2026)](https://doi.org/10.1016/j.gde.2026.102483)
 
 * "Long-term evolution of regulatory DNA sequences. Part 2: Theory and future challenges"<br>[(**Mascolo** *et al.*, 2026)](https://doi.org/10.1016/j.gde.2026.102472)
 
