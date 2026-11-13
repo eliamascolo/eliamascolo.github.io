@@ -15,11 +15,11 @@
 
 ### Pre-prints or in preparation
 
-* "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"<br>[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
+* "Why don't transcription factors exploit inter-nucleotide correlations in binding motifs? Evolution of information encoding strategies on DNA."<br>[(Mekasha\* and **Mascolo**\* *et al.*, 2026)](https://doi.org/10.64898/2026.11.09.765386) [pre-print]
 
 * "*Replicards*: Teaching and simulating evolution with a card-based experiment"<br>[(**Mascolo**\* and Héjja-Brichard\*, 2026)](https://doi.org/10.32942/X2KQ1H) [pre-print]
 
-* "Why Nucleotides Contribute Independently To Sequence Recognition"<br>(Mekasha\* and **Mascolo**\* *et al.*, 2026) [in preparation]
+* "Information Theory of Composite Sequence Motifs: Mutational and Biophysical Determinants of Complex Molecular Recognition"<br>[(**Mascolo** and Erill, 2024)](https://doi.org/10.1101/2024.11.11.623117) [pre-print]
 
 ### Book chapter
 
